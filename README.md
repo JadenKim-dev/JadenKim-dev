@@ -1,4 +1,16 @@
-### 📁 Repository
+# JadenKim-dev 😄
+
+<a href="https://velog.io/@jadenkim5179" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yeong-ho-kim-24a53b20a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+
+### Interested in
+
+Backend Framework (NestJS, Spring)  
+Database (MySQL, MongoDB)  
+Test code (Jest)  
+Dev-Ops (Docker, K8S)
+
+### Repository
 
 | Name                                                 | Desc                             | Role              | Stack                |
 | ---------------------------------------------------- | -------------------------------- | ----------------- | -------------------- |

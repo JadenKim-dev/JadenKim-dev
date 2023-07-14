@@ -5,10 +5,10 @@
 
 ### Interested in
 
-Backend Framework (NestJS, Spring)  
-Database (MySQL, MongoDB)  
-Test code (Jest)  
-Dev-Ops (Docker, K8S)
+- Backend Framework (NestJS, Spring)
+- Database (MySQL, MongoDB)
+- Test code (Jest)
+- Dev-Ops (Docker, K8S)
 
 ### Repository
 

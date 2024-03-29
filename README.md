@@ -5,15 +5,18 @@
 
 ### Interested in
 
-- Backend Framework (NestJS, Spring)
+- Backend Framework (Spring, NestJS)
 - Database (MySQL, MongoDB)
-- Test code (Jest)
+- Test code (JUnit, Jest)
 - Dev-Ops (Docker, K8S)
 
 ### Repository
 
-| Name                                                 | Desc                             | Role              | Stack                |
-| ---------------------------------------------------- | -------------------------------- | ----------------- | -------------------- |
-| [TIL](https://github.com/JadenKim-dev/TIL)           | Today I Learned                  |                   | JS, TS, Java, etc... |
-| [Recordly](https://github.com/Recordly-dev/Recordly) | 편리한 메모 관리 Recordly        | Backend Developer | Node.js, MongoDB, TS |
-| [Nimble Meet](https://github.com/Nimble-Meet)        | 회의를 가볍고 즐겁게 Nimble Meet | Backend Developer | NestJS, MySQL, Jest  |
+| Name                                                               | Desc                             | Role              | Stack                 |
+| ------------------------------------------------------------------ | -------------------------------- | ----------------- | --------------------- |
+| [Recordly](https://github.com/Recordly-dev/Recordly)               | 편리한 메모 관리 Recordly        | Backend Developer | Node.js, MongoDB, TS  |
+| [Nimble Meet](https://github.com/Nimble-Meet/server_spring)        | 회의를 가볍고 즐겁게 Nimble Meet | Backend Developer | Spring, MySQL, Java   |
+| [Nimble Meet - Nest](https://github.com/Nimble-Meet)               | Nimble Meet의 Nest.js 버전       | Backend Developer | NestJS, MySQL, Jest   |
+| [TIL](https://github.com/JadenKim-dev/TIL)                         | Today I Learned                  |                   | JS, TS, Java, etc...  |
+| [Lecture Note](https://github.com/Nimble-Meet)                     | 강의 학습 내용 정리              |                   | Spring, K8S, JUnit... |
+| [Mongo Practice](https://github.com/JadenKim-dev/mongodb_practice) | MongoDB 학습 및 실습             |                   | MongoDB, Mongoose     |

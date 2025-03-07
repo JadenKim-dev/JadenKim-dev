@@ -12,18 +12,15 @@
 
 ### Open Source Activity
 
-| Name                                                                              | Desc                                                   | Link                                                                                                                                                                                                              |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [woowabros/nestjs-library-crud](https://github.com/woowabros/nestjs-library-crud) | NestJS에서 자동으로 CRUD route를 생성해주는 라이브러리 | [PR](https://github.com/woowabros/nestjs-library-crud/pulls?q=is%3Apr+is%3Aclosed+author%3AJadenKim-dev+), [Issue](https://github.com/woowabros/nestjs-library-crud/issues?q=is%3Aissue+involves%3AJadenKim-dev+) |
-| [nestjs/nest](https://github.com/nestjs/nest)                                     | NestJS Core 레포지토리                                 | [PR](https://github.com/nestjs/nest/pulls?q=is%3Apr+author%3AJadenKim-dev+), [Issue](https://github.com/nestjs/nest/issues?q=is%3Aissue+involves%3AJadenKim-dev+)                                                 |
+| Name                                                                              | Desc                                                       | Link                                                                                                                                                                                                              |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [woowabros/nestjs-library-crud](https://github.com/woowabros/nestjs-library-crud) | Library that automatically generates CRUD routes in NestJS | [PR](https://github.com/woowabros/nestjs-library-crud/pulls?q=is%3Apr+is%3Aclosed+author%3AJadenKim-dev+), [Issue](https://github.com/woowabros/nestjs-library-crud/issues?q=is%3Aissue+involves%3AJadenKim-dev+) |
+| [nestjs/nest](https://github.com/nestjs/nest)                                     | NestJS Core Repository                                     | [PR](https://github.com/nestjs/nest/pulls?q=is%3Apr+author%3AJadenKim-dev+), [Issue](https://github.com/nestjs/nest/issues?q=is%3Aissue+involves%3AJadenKim-dev+)                                                 |
 
 ### Repository
 
-| Name                                                               | Desc                             | Role              | Stack                 |
-| ------------------------------------------------------------------ | -------------------------------- | ----------------- | --------------------- |
-| [Recordly](https://github.com/Recordly-dev/Recordly)               | 편리한 메모 관리 Recordly        | Backend Developer | Node.js, MongoDB, TS  |
-| [Nimble Meet](https://github.com/Nimble-Meet/server_spring)        | 회의를 가볍고 즐겁게 Nimble Meet | Backend Developer | Spring, MySQL, Java   |
-| [Nimble Meet - Nest](https://github.com/Nimble-Meet)               | Nimble Meet의 Nest.js 버전       | Backend Developer | NestJS, MySQL, Jest   |
-| [TIL](https://github.com/JadenKim-dev/TIL)                         | Today I Learned                  |                   | JS, TS, Java, etc...  |
-| [Lecture Note](https://github.com/Nimble-Meet)                     | 강의 학습 내용 정리              |                   | Spring, K8S, JUnit... |
-| [Mongo Practice](https://github.com/JadenKim-dev/mongodb_practice) | MongoDB 학습 및 실습             |                   | MongoDB, Mongoose     |
+| Name                                                        | Desc                                         | Role              | Stack                  |
+| ----------------------------------------------------------- | -------------------------------------------- | ----------------- | ---------------------- |
+| [Nimble Meet](https://github.com/Nimble-Meet/server_spring) | Make meetings light and fun with Nimble Meet | Backend Developer | Spring, MySQL, Java    |
+| [Nimble Meet](https://github.com/Nimble-Meet)               | Nest.js version of Nimble Meet               | Backend Developer | NestJS, MySQL, Jest    |
+| [kube-pilot-labs](https://github.com/kube-pilot-labs)       | Event-driven microservices for k8s agent     | All               | NestJS, Go, K8S, Kafka |

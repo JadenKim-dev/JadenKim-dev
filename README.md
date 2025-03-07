@@ -5,9 +5,9 @@
 
 ### Interested in
 
-- Backend Framework (Spring, NestJS)
-- Database (MySQL, MongoDB)
-- Test code (JUnit, Jest)
+- Backend Engineering (NestJS, Spring, golang)
+- Database (MongoDB, MySQL)
+- Test code (Jest, JUnit)
 - Dev-Ops (Docker, K8S)
 
 ### Open Source Activity
